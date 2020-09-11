@@ -1,0 +1,24 @@
+{
+  "name": "doctor-web-react",
+  "version": "1.0.0",
+  "description": "web site medical",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gghbit/doctor-web-react.git"
+  },
+  "keywords": [
+    "react",
+    "doctoralia",
+    "doctor"
+  ],
+  "author": "gghbit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gghbit/doctor-web-react/issues"
+  },
+  "homepage": "https://github.com/gghbit/doctor-web-react#readme"
+}
